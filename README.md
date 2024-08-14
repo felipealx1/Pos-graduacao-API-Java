@@ -15,9 +15,9 @@
         <li>Realização de operações CRUD utilizando métodos HTTP (GET, POST, PUT, DELETE).</li>
         <li>Consumo de uma API externa (ViaCEP) para cadastro e atualização de endereços de funcionários.</li>
     </ul>
-    ![get1](https://github.com/user-attachments/assets/97f768a3-6a00-4d54-a83a-0e9b0a07eb54)
-    ![get2](https://github.com/user-attachments/assets/72ff260c-a35c-4391-a5c3-81209e8cb53d) 
-    ![put1](https://github.com/user-attachments/assets/bc9608fb-8fc2-4b22-aeeb-a6e8e63392e0)
+    <h4>Imagem GET Funcionários </h4>![get1](https://github.com/user-attachments/assets/97f768a3-6a00-4d54-a83a-0e9b0a07eb54)<br>
+    <h4>Imagem GET Empresas </h4>![get2](https://github.com/user-attachments/assets/72ff260c-a35c-4391-a5c3-81209e8cb53d) <br>
+    <h4>Imagem PUT Empresa</h4>![put1](https://github.com/user-attachments/assets/bc9608fb-8fc2-4b22-aeeb-a6e8e63392e0)<br>
 
     
   <h3>🔧 Tecnologias Utilizadas</h3>
