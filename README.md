@@ -27,7 +27,7 @@
   <h3>⚙️ Instalação e Execução</h3>
     <ol>
         <li>Clone o repositório para sua máquina local.</li>
-        <li>Configure o banco de dados MySQL com as credenciais corretas.</li>
+        <li>Configure o banco de dados H2 com as credenciais corretas.</li>
         <li>Importe o projeto em sua IDE de preferência (como IntelliJ IDEA ou Eclipse).</li>
         <li>Execute o projeto como uma aplicação Spring Boot.</li>
         <li>Acesse a documentação interativa do Swagger em <code>http://localhost:8080/swagger-ui/index.html#/</code>.</li>
