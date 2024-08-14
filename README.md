@@ -1,29 +1,6 @@
 # Pos-graduacao-API-Java
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-        }
-        h1, h2, h3 {
-            color: #333;
-        }
-        ul {
-            margin-left: 20px;
-        }
-        code {
-            background-color: #f4f4f4;
-            padding: 2px 4px;
-            border-radius: 4px;
-        }
-    </style>
-</head>
 <body>
-    <h1>API Empresa - Gerenciamento de Cadastros</h1>
+    <h1>API Empresa - Gerenciamento de Cadastros de Empresas e Funcionários</h1>
     <h2>Desenvolvimento de uma API para Gerenciamento de Empresas e Funcionários</h2>
     <p>Este projeto é um sistema que permite o gerenciamento eficiente de Empresas e Funcionários através de uma API robusta, facilitando as operações de cadastro e controle.</p>
     
