@@ -15,9 +15,9 @@
         <li>Realização de operações CRUD utilizando métodos HTTP (GET, POST, PUT, DELETE).</li>
         <li>Consumo de uma API externa (ViaCEP) para cadastro e atualização de endereços de funcionários.</li>
     </ul>
-    <img src="get 1.png" alt="Descrição da imagem" style="display:block; margin:auto;" />
-    <img src="get 2.png" alt="Descrição da imagem" style="display:block; margin:auto;" />
-    <img src="put 1.png" alt="Descrição da imagem" style="display:block; margin:auto;" />
+    <img src="get1.png" alt="Descrição da imagem" style="display:block; margin:auto;" />
+    <img src="get2.png" alt="Descrição da imagem" style="display:block; margin:auto;" />
+    <img src="put1.png" alt="Descrição da imagem" style="display:block; margin:auto;" />
     
   <h3>🔧 Tecnologias Utilizadas</h3>
     <ul>
