@@ -20,7 +20,7 @@
     <ul>
         <li><b>Spring Boot:</b> Framework para desenvolvimento de aplicações Java.</li>
         <li><b>Hibernate/JPA:</b> Para mapeamento objeto-relacional e persistência de dados.</li>
-        <li><b>MySQL:</b> Banco de dados para armazenamento das informações.</li>
+        <li><b>Banco H2:</b> Banco de dados para armazenamento das informações enquanto a API estiver rodando.</li>
         <li><b>Swagger/OpenAPI:</b> Usado para documentação e facilitação do uso da API.</li>
     </ul>
     
